@@ -1,12 +1,3 @@
-# digital-clock
-A new repository created via Python script
-
-
----
-
-Here is a simple digital clock code in Python:
-
-```python
 import time
 from tkinter import Tk, Label, BOTH
 from tkinter.ttk import Frame, Style
@@ -40,4 +31,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-```
